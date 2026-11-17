@@ -1,4 +1,6 @@
-[16264:15816:1117/142549.647:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16264:15816:1117/142549.790:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29404:28316:1117/142553.306:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7685E0F3F86C158149CA2882F82F466F will be ignored
-[16264:15816:1117/142720.755:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[29000:8404:1117/143058.576:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29000:8404:1117/143058.634:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31900:4692:1117/143102.119:ERROR:backend_impl.cc(989)] Critical error found -8
+[31900:4692:1117/143102.349:WARNING:storage_block-inl.h(138)] Failed data load.
+[34300:32700:1117/143102.372:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5C282DB95152228E7FAFD7688568EC50 will be ignored
+[29000:8404:1117/153312.769:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
